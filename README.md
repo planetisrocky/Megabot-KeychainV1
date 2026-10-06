@@ -1,2 +1,2 @@
-# Solu-Keychain
-A tiny digital pet keychain with many other features, right on my keychain! First time making a PCB (wish me luck!) and I have many plans as well. Made for Week-1 of Half Life in Hackclub!
+# Megabot-Keychain
+A tiny digital & interactive keychain, depicting none other than Megabot from Big Hero 6! I'll add a time feature to show the current time with a button click, and hopefully more is on the way.
