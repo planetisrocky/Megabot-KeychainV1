@@ -16,7 +16,7 @@
 | [Custom PCB](https://pcbway.com) | Routing all components! ( I will be adding a 10$ off coupon, original price was 33.27$) | 1 | $5.00 | $5.00 | [PCBWay](https://pcbway.com) |
 | [Buttons](https://a.aliexpress.com/_mKqgKqf) | Just buttons (to switch faces and modes) | 1 | $1.70 | $1.70 | [AliExpress](https://a.aliexpress.com/_mKqgKqf) |
 | **Parts subtotal** | — | — | — | **$10.51** | — |
-| **Tax & shipping** | — | — | — | **$20.89** | — |
-| **Total** | — | — | — | **$31.40** | — |
+| **Tax & shipping** | — | — | — | **$19.49** | — |
+| **Total** | — | — | — | **$30.00** | — |
 
-**$1.40 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.00 left of the tier's funding.
