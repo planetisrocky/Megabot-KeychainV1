@@ -2,7 +2,7 @@
 
 A Big Hero 6 inspired figure with a round display for a face. It shows emotions, the time, weather, and more, and you switch modes with buttons. Built for Hack Club's **Half Life** program.
 
-![PCB](images/pcb.png)
+![PCB](images/pcb.jpg)
 
 ## Planned Features
 
