@@ -12,11 +12,10 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Seeed XIAO ESP32-C3 Mini](https://a.aliexpress.com/_mOrJeVV) | Brains, Wifi, and USB-C charging | 1 | $9.25 | $9.25 | [AliExpress](https://a.aliexpress.com/_mOrJeVV) |
 | [1.28" GC9A01 round display](https://a.aliexpress.com/_mqf3D35) | Displaying the face of Megabot | 1 | $3.81 | $3.81 | [AliExpress](https://a.aliexpress.com/_mqf3D35) |
 | [Custom PCB](https://pcbway.com) | Routing all components! ( I will be adding a 10$ off coupon, original price was 33.27$) | 1 | $23.27 | $23.27 | [PCBWay](https://pcbway.com) |
-| **Parts subtotal** | — | — | — | **$36.33** | — |
+| **Parts subtotal** | — | — | — | **$27.08** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$36.33** | — |
+| **Total** | — | — | — | **$27.08** | — |
 
-$28.67 left of the tier's funding.
+$37.92 left of the tier's funding.
